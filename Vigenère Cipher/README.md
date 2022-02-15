@@ -1,1 +1,0 @@
-This is an implementation of the first two chapters of the book: "The Code Book" by Simon Singh. (https://www.amazon.in/Code-Book-Secret-History-Code-breaking-ebook/dp/B003VWDOK2/ref=sr_1_3?keywords=code+book&qid=1634899819&sr=8-3 )
